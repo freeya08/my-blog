@@ -1,4 +1,3 @@
-<details> <summary>📋 點我展開完整文章內容</summary>
 ---
 title: "Hugo 建站實作紀錄：PaperMod 主題 + 問題排解整理"
 date: 2025-07-16
@@ -35,4 +34,3 @@ tags: ["Hugo", "建站筆記", "PaperMod"]
 ## ✅ 結果
 
 網站已成功運作！目前使用 PaperMod 主題，文章內容也能正常顯示，下一步將加入 About 頁與部署功能。
-</details>
